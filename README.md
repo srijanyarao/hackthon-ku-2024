@@ -118,7 +118,7 @@ Srijanya Chetikaneni - 1st Hackthon - Implemented video streaming and images cap
 
 Soumya Baddham - 1st Hackthon - Idea and Implemented Mediapipe
 
-Chaitanya Adepalli - 2nd Hackthon - Model Implementation
+Chaitanya Adepalli - 4th Hackthon - Model Implementation
 
 
 
