@@ -1,7 +1,7 @@
 # hackthon-ku-2024
 
 
-# Sign Savy
+# Sign Savvy
 
 A brief description of what this project does and who it's for:
 
@@ -86,11 +86,17 @@ To execute program
 
 ## Flowchart
 
-![Flowchart]()
+![Flowchart](flowchart.png)
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+Wow, Soumya and I just wrapped up our first hackathon, and it was quite an adventure! We dove into the deep end by collaborating on our project, which was new territory for us. But you know what? We rocked it!
+
+Throughout the hackathon, we soaked up tons of technical knowledge. We got our hands dirty with all sorts of cool stuff, like playing around with image processing techniques and pipelines. Mediapipe became our best friend for object detection, focusing on hands in our case. And let me tell you, tweaking those machine-learning parameters was both challenging and rewarding. We even got to test our ML model with real-time data, which was super exciting.
+
+As for Chaitanya, he dove headfirst into integrating models with real-time video sources. Talk about a learning curve! But he tackled it like a champ and added a whole new dimension to our project.
+
+All in all, it was an incredible experience, and we came out of it with a boatload of new skills and memories. Can't wait for the next one!
 
 
 ## Challenges
@@ -101,16 +107,15 @@ What did you learn while building this project? What challenges did you face and
 
 ## Demo
 
-Insert gif or link to demo
+[Demo](https://github.com)
 
 ## 
 
 
-## Contributions
+## Team Contributions
+Srijanya Chetikaneni - 1st Hackthon - Implemented video streaming and images capturing by cv2
+Soumya Baddham - 1st Hackthon - Idea and Implemented Mediapipe
+Chaitanya Adepalli - 2nd Hackthon - Model Implementation
 
-Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
