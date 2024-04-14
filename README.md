@@ -32,6 +32,7 @@ The purpose of this project is to develop sign language recognition software usi
 
 
 ## Run Locally
+we have included 3 models in this repository trained with different model parameters. You can use one of them to execute run_model.py. Otherwise build your own model using build_model.py
 
 Clone the project
 
