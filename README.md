@@ -114,7 +114,9 @@ All in all, it was an incredible experience, and we came out of it with a boatlo
 
 ## Team Contributions
 Srijanya Chetikaneni - 1st Hackthon - Implemented video streaming and images capturing by cv2
+
 Soumya Baddham - 1st Hackthon - Idea and Implemented Mediapipe
+
 Chaitanya Adepalli - 2nd Hackthon - Model Implementation
 
 
